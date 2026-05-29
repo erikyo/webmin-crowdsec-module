@@ -1,0 +1,3 @@
+crowdsec_path=/usr/bin/crowdsec
+cscli_path=/usr/bin/cscli
+crowdsec_service=crowdsec

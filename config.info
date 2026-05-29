@@ -1,0 +1,3 @@
+crowdsec_path=Path to crowdsec executable,0
+cscli_path=Path to cscli executable,0
+crowdsec_service=CrowdSec systemd service name,0

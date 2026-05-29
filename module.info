@@ -1,0 +1,6 @@
+desc=CrowdSec Manager
+category=system
+version=1.00
+depends=1.900
+os_support=*-linux
+longdesc=Manage CrowdSec service, view decisions, alerts, metrics and execute cscli commands.
