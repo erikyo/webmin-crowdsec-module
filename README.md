@@ -2,7 +2,7 @@
 
 A lightweight and intuitive Webmin module to monitor and manage the CrowdSec security engine directly from your dashboard.
 
-![CrowdSec Webmin Module Interface](image_c811ff.png)
+<img width="1448" height="733" alt="image" src="https://github.com/user-attachments/assets/38b9a57b-a816-4676-8235-8652fee67cd2" />
 
 ## Features
 
